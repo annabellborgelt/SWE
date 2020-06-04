@@ -62,7 +62,7 @@
             // 
             this.button1.Location = new System.Drawing.Point(191, 194);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(58, 36);
+            this.button1.Size = new System.Drawing.Size(110, 60);
             this.button1.TabIndex = 2;
             this.button1.Text = "Login";
             this.button1.UseVisualStyleBackColor = true;
@@ -72,7 +72,7 @@
             // 
             this.name_txt.Location = new System.Drawing.Point(187, 106);
             this.name_txt.Name = "name_txt";
-            this.name_txt.Size = new System.Drawing.Size(143, 20);
+            this.name_txt.Size = new System.Drawing.Size(150, 20);
             this.name_txt.TabIndex = 3;
             // 
             // password_txt
@@ -80,7 +80,7 @@
             this.password_txt.Location = new System.Drawing.Point(187, 153);
             this.password_txt.Name = "password_txt";
             this.password_txt.PasswordChar = '*';
-            this.password_txt.Size = new System.Drawing.Size(143, 20);
+            this.password_txt.Size = new System.Drawing.Size(145, 20);
             this.password_txt.TabIndex = 4;
             this.password_txt.TextChanged += new System.EventHandler(this.password_txt_TextChanged);
             // 
